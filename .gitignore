@@ -1,2 +1,5 @@
+# 出力した記事
+articles/
+
 # ClaudeCode ローカル設定
 .claude/settings.local.json
