@@ -1,7 +1,5 @@
-# 記事ごとの分析結果ファイルを出力するディレクトリ
-analyses/
-
 # 総合分析結果
 analysis.md
 
+# ClaudeCode ローカル設定
 .claude/settings.local.json
