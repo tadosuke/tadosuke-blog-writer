@@ -1,4 +1,4 @@
-# fetch-unanalyzed-article-urls
+# 分析済みでない URL のリストを取得する
 
 ブログ記事のうち、分析が済んでいない記事の URL 一覧を最大 10 件取得します。
 
