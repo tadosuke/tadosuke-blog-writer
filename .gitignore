@@ -3,3 +3,5 @@ analyses/
 
 # 総合分析結果
 analysis.md
+
+.claude/settings.local.json
