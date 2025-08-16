@@ -37,6 +37,7 @@
 - programming-3810.md
 - english-6848.md
 - common-6856.md
+- life-6861.md
 
 # 分析結果
 
